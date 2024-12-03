@@ -1,1 +1,0 @@
-# RNN-Transfer-Learning-for-Image-Captioning
